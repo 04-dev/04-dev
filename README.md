@@ -42,8 +42,7 @@
 ## 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=04-dev&show_icons=true&theme=dark)
-
-
+![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=04-dev&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=04-dev&layout=compact&theme=dark&langs_count=6&hide=html,css,scss)
 
