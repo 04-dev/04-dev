@@ -1,6 +1,6 @@
-<h1 align="center">Hello 👋, I'm Ravshan</h1>
-<h3 align="center">A Passionate Flutter Developer</h3>
+# Hello 👋, I'm Ravshan
 
+## A Passionate Flutter Developer
 
 ---
 
@@ -11,8 +11,6 @@
 - 💬 Feel free to ask me anything about **Flutter**
 
 ---
-
-
 
 <p align="left">
   <a href="https://t.me/" target="_blank">
@@ -40,3 +38,8 @@
 
 ---
 
+## 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=04-dev&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=04-dev&layout=compact&theme=dark)
