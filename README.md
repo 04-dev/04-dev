@@ -20,7 +20,10 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://ТВОЙ_PORTFOLIO_URL" target="_blank">
+  <a href="sandbox:/mnt/data/portfolio_projects.docx" download>
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+</a>
+
   </a>
 </p>
 
