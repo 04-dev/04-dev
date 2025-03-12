@@ -28,13 +28,13 @@
 
 ## 🛠 Tech Stack:
 
+
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio"/>
+
 </p>
 
 ---
@@ -42,7 +42,7 @@
 ## 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=04-dev&show_icons=true&theme=dark)
-![GitHub Contributions]([https://github-readme-activity-graph.cyclic.app/graph?username=04-dev&theme=dark](https://github.com/04-dev/04-dev/blob/main/README.md))
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=04-dev&layout=compact&theme=dark&langs_count=6&hide=html,css,scss)
 
